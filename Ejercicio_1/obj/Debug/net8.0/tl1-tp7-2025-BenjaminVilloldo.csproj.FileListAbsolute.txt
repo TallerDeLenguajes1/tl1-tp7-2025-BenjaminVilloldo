@@ -1,0 +1,15 @@
+C:\Users\Benjenvil\Desktop\tl1-tp7-2025-BenjaminVilloldo\obj\Debug\net8.0\tl1-tp7-2025-BenjaminVilloldo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Benjenvil\Desktop\tl1-tp7-2025-BenjaminVilloldo\obj\Debug\net8.0\tl1-tp7-2025-BenjaminVilloldo.AssemblyInfoInputs.cache
+C:\Users\Benjenvil\Desktop\tl1-tp7-2025-BenjaminVilloldo\obj\Debug\net8.0\tl1-tp7-2025-BenjaminVilloldo.AssemblyInfo.cs
+C:\Users\Benjenvil\Desktop\tl1-tp7-2025-BenjaminVilloldo\obj\Debug\net8.0\tl1-tp7-2025-BenjaminVilloldo.csproj.CoreCompileInputs.cache
+C:\Users\Benjenvil\Desktop\tl1-tp7-2025-BenjaminVilloldo\obj\Debug\net8.0\tl1-tp7-2025-BenjaminVilloldo.sourcelink.json
+C:\Users\Benjenvil\Desktop\tl1-tp7-2025-BenjaminVilloldo\bin\Debug\net8.0\tl1-tp7-2025-BenjaminVilloldo.exe
+C:\Users\Benjenvil\Desktop\tl1-tp7-2025-BenjaminVilloldo\bin\Debug\net8.0\tl1-tp7-2025-BenjaminVilloldo.deps.json
+C:\Users\Benjenvil\Desktop\tl1-tp7-2025-BenjaminVilloldo\bin\Debug\net8.0\tl1-tp7-2025-BenjaminVilloldo.runtimeconfig.json
+C:\Users\Benjenvil\Desktop\tl1-tp7-2025-BenjaminVilloldo\bin\Debug\net8.0\tl1-tp7-2025-BenjaminVilloldo.dll
+C:\Users\Benjenvil\Desktop\tl1-tp7-2025-BenjaminVilloldo\bin\Debug\net8.0\tl1-tp7-2025-BenjaminVilloldo.pdb
+C:\Users\Benjenvil\Desktop\tl1-tp7-2025-BenjaminVilloldo\obj\Debug\net8.0\tl1-tp7-2025-BenjaminVilloldo.dll
+C:\Users\Benjenvil\Desktop\tl1-tp7-2025-BenjaminVilloldo\obj\Debug\net8.0\refint\tl1-tp7-2025-BenjaminVilloldo.dll
+C:\Users\Benjenvil\Desktop\tl1-tp7-2025-BenjaminVilloldo\obj\Debug\net8.0\tl1-tp7-2025-BenjaminVilloldo.pdb
+C:\Users\Benjenvil\Desktop\tl1-tp7-2025-BenjaminVilloldo\obj\Debug\net8.0\tl1-tp7-2025-BenjaminVilloldo.genruntimeconfig.cache
+C:\Users\Benjenvil\Desktop\tl1-tp7-2025-BenjaminVilloldo\obj\Debug\net8.0\ref\tl1-tp7-2025-BenjaminVilloldo.dll
